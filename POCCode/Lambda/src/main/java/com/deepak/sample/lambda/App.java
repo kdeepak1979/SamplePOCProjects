@@ -1,4 +1,4 @@
-package org.Lambda;
+package com.deepak.sample.lambda;
 
 /**
  * Hello world!
