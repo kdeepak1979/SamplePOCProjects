@@ -1,4 +1,4 @@
-package org.Streams;
+package com.deepak.sample.streams;
 
 /**
  * Hello world!
